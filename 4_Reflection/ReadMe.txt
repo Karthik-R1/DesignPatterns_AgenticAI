@@ -1,2 +1,1 @@
-
-Automated quality control; the system checks its own work to ensure accuracy and professionalism.
+A built-in "quality control" step where the AI double-checks its own work to fix errors before the user sees them
