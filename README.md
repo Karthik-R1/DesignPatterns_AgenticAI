@@ -7,7 +7,7 @@ Validation Status: 21/21 PASSED
 This repository contains a production-grade implementation of 21 Agentic Design Patterns tailored for a Chief Information Officer (CIO) persona. These patterns use the Google ADK and Ollama (Llama 3.2) to automate strategic IT decision-making, risk assessment, and infrastructure management.
 
 📂 Project Structure
-All files are located in the root directory for a simplified deployment:
+All patterns, in GitHub, are located in their repective directory:
 
 1) pattern_01_routing.py ... pattern_21_exploration.py: The individual logic for each of the 21 agentic behaviors.
 2) app.py: The central Streamlit Dashboard that imports and executes these patterns.
