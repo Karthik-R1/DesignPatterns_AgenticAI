@@ -10,7 +10,7 @@ This repository contains a production-grade implementation of 21 Agentic Design 
 All patterns, in GitHub, are located in their repective directory:
 
 1) pattern_01_routing.py ... pattern_21_exploration.py: The individual logic for each of the 21 agentic behaviors.
-2) app.py: The central Streamlit Dashboard that imports and executes these patterns.
+2) agent_dashboard.py: The central Streamlit Dashboard that imports and executes these patterns.
 3) validate_patterns.py: The master test suite used to achieve the 21/21 score.
 4) requirements.txt: Project dependencies.
 
