@@ -1,4 +1,3 @@
-nterface.
 
 📊 CIO Agentic Design Patterns Suite
 
